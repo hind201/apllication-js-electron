@@ -1,0 +1,17 @@
+{
+  "name": "app-clean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mains.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.2.2"
+  },
+  "dependencies": {
+    "get-folder-size": "^2.0.1"
+  }
+}
